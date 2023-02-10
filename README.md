@@ -1,5 +1,5 @@
 <div class="Banner" align="center">
-  <a href="#"><img src="https://raw.githubusercontent.com/Drich3614/Drich3614/imgs/HMHD.gif"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/Drich3614/Drich3614/main/imgs/HMHD.gif"></a>
 </div>
 <!--
 **Drich3614/Drich3614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
